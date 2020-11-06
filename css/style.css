@@ -1,24 +1,4 @@
-/**
- * InTime v2.0
- * By Just Good Themes - https://justgoodthemes.com/
- */
 
-/**
- * Table of Contents
- * ------------------------------------------------------------
- * 0. Icons
- * 1. Reset
- * 2. General
- * 3. Structure
- * 4. Content
- * 5. Media Queries
-*/
-
-/**
- * 0. Icons
- * Font Awesome by Dave Gandy | http://fontawesome.io
- * ------------------------------------------------------------
- */
 @font-face {
 	font-family: 'fontawesome';
 	src:  url('fonts/fontawesome.eot?74hzpf');
@@ -551,7 +531,7 @@ button,
 input[type="submit"],
 input[type="button"] {
 	background-color: #73ba37;
-	background-color: rgba(115,186,55,.8);
+	background-color: rgb(240 167 46);
 	border: 0;
 	padding-left: 24px;
 	padding-right: 24px;
