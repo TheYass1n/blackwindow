@@ -31,7 +31,7 @@
         });
 
         // Background image
-        $.backstretch('images/cc.jpg');
+        $.backstretch('images/vtg.jpg');
 
         // Subscribe form
         $('#newsletter-form').validate({
